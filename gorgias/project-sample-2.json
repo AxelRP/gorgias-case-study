@@ -1,0 +1,132 @@
+{
+  "id": 2122280572,
+  "photo": {
+    "key": "assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg",
+    "full": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=560&amp;h=315&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=29be8bec0e31041a9a2b04cc04d3b10b",
+    "ed": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=352&amp;h=198&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=424500b8bf4ed9f619d5e642c03d84a5",
+    "med": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=272&amp;h=153&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=36df57ad9e6ddb3786a6b16e96e7a54f",
+    "little": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=208&amp;h=117&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=068c3173aa96bd6289749be61d22e340",
+    "small": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=160&amp;h=90&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=fed6ef984a5dbbffb8cf9a0e1ce88f3d",
+    "thumb": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=48&amp;h=27&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=1e327ead3ab55498be21055eb5bcd62e",
+    "1024x576": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=1024&amp;h=576&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=28706fd8ece75f1881f6fd71fd8a2251",
+    "1536x864": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=1552&amp;h=873&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=35d2b9e745bcafedc5df5c2dbf46d546"
+  },
+  "name": "Kitchen Tools Valgovia Camping All-in-One Kit.",
+  "blurb": "100 years of history, the pride of the Italian knife Valgovia. Eco friendly camping knife! Vegan Case !",
+  "goal": 1500.0,
+  "pledged": 4235.0,
+  "state": "live",
+  "slug": "kitchen-tools-valgovia-camping-all-in-one-kit",
+  "disable_communication": false,
+  "country": "US",
+  "country_displayable_name": "the United States",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "currency_trailing_code": true,
+  "deadline": 1684306295,
+  "state_changed_at": 1683010297,
+  "created_at": 1682495100,
+  "launched_at": 1683010295,
+  "staff_pick": false,
+  "is_starrable": false,
+  "backers_count": 82,
+  "static_usd_rate": 1.0,
+  "usd_pledged": "4235.0",
+  "converted_pledged_amount": 4235,
+  "fx_rate": 1.0,
+  "usd_exchange_rate": 1.0,
+  "current_currency": "USD",
+  "usd_type": "domestic",
+  "creator": {
+    "id": 1290964593,
+    "name": "Valgovia",
+    "slug": "valgovia",
+    "is_registered": null,
+    "is_email_verified": null,
+    "chosen_currency": null,
+    "is_superbacker": null,
+    "avatar": {
+      "thumb": "https://ksr-ugc.imgix.net/assets/040/731/423/38069ffdc6779f6b8f9e3a8f4651a737_original.jpg?ixlib=rb-4.0.2&amp;w=40&amp;h=40&amp;fit=crop&amp;v=1682498534&amp;auto=format&amp;frame=1&amp;q=92&amp;s=ff9e325263b7fd3e3fefc9da059d863b",
+      "small": "https://ksr-ugc.imgix.net/assets/040/731/423/38069ffdc6779f6b8f9e3a8f4651a737_original.jpg?ixlib=rb-4.0.2&amp;w=80&amp;h=80&amp;fit=crop&amp;v=1682498534&amp;auto=format&amp;frame=1&amp;q=92&amp;s=b95754847acdf9f4cc0fb9225c73b2a9",
+      "medium": "https://ksr-ugc.imgix.net/assets/040/731/423/38069ffdc6779f6b8f9e3a8f4651a737_original.jpg?ixlib=rb-4.0.2&amp;w=160&amp;h=160&amp;fit=crop&amp;v=1682498534&amp;auto=format&amp;frame=1&amp;q=92&amp;s=f3cbaab56470b21e5994c788987282ba"
+    },
+    "urls": {
+      "web": {
+        "user": "https://www.kickstarter.com/profile/valgovia"
+      },
+      "api": {
+        "user": "https://api.kickstarter.com/v1/users/1290964593?signature=1684390564.4f1c6a77f105bca1e818b486b3a95d5124f3b6ec"
+      }
+    }
+  },
+  "location": {
+    "id": 2378134,
+    "name": "Chapel Hill",
+    "slug": "chapel-hill-orange-nc",
+    "short_name": "Chapel Hill, NC",
+    "displayable_name": "Chapel Hill, NC",
+    "localized_name": "Chapel Hill",
+    "country": "US",
+    "state": "NC",
+    "type": "Town",
+    "is_root": false,
+    "expanded_country": "United States",
+    "urls": {
+      "web": {
+        "discover": "https://www.kickstarter.com/discover/places/chapel-hill-orange-nc",
+        "location": "https://www.kickstarter.com/locations/chapel-hill-orange-nc"
+      },
+      "api": {
+        "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1684389796.0aab6282cff8215aa2a8f83946257add6f4022a1&amp;woe_id=2378134"
+      }
+    }
+  },
+  "category": {
+    "id": 28,
+    "name": "Product Design",
+    "analytics_name": "Product Design",
+    "slug": "design/product design",
+    "position": 5,
+    "parent_id": 7,
+    "parent_name": "Design",
+    "color": 2577151,
+    "urls": {
+      "web": {
+        "discover": "http://www.kickstarter.com/discover/categories/design/product%20design"
+      }
+    }
+  },
+  "profile": {
+    "id": 4606290,
+    "project_id": 4606290,
+    "state": "inactive",
+    "state_changed_at": 1682495100,
+    "name": null,
+    "blurb": null,
+    "background_color": null,
+    "text_color": null,
+    "link_background_color": null,
+    "link_text_color": null,
+    "link_text": null,
+    "link_url": null,
+    "show_feature_image": false,
+    "background_image_opacity": 0.8,
+    "should_show_feature_image_section": true,
+    "feature_image_attributes": {
+      "image_urls": {
+        "default": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=1552&amp;h=873&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=35d2b9e745bcafedc5df5c2dbf46d546",
+        "baseball_card": "https://ksr-ugc.imgix.net/assets/040/730/972/aab1edf7680a7623d39b9dd1903e5402_original.jpg?ixlib=rb-4.0.2&amp;crop=faces&amp;w=560&amp;h=315&amp;fit=crop&amp;v=1682495362&amp;auto=format&amp;frame=1&amp;q=92&amp;s=29be8bec0e31041a9a2b04cc04d3b10b"
+      }
+    }
+  },
+  "spotlight": false,
+  "urls": {
+    "web": {
+      "project": "https://www.kickstarter.com/projects/valgovia/kitchen-tools-valgovia-camping-all-in-one-kit",
+      "rewards": "https://www.kickstarter.com/projects/valgovia/kitchen-tools-valgovia-camping-all-in-one-kit/rewards"
+    }
+  },
+  "percent_funded": 282.3333333333333,
+  "is_liked": false,
+  "is_disliked": false
+}
