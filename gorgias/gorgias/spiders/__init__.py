@@ -5,7 +5,7 @@ import scrapy
 from scrapy import Selector
 import requests
 import os
-
+import segment.analytics as segment
 
 SCRAPEOPS_API_KEY = '23d3ba9b-0468-4141-bbc5-d9ca071b9406'
 SEGMENT_KEY = 'Q6QwJI6Zo7Alfp5UxKoKncwh0xu3nk2O'
@@ -104,24 +104,14 @@ def company_enrichment(domain):
 
 
 def segment_track_call(contact, project):
-    event = {
-        'userId': contact['email'],
-        'event': 'kickstarter-campaign-completed',
-        'properties': {
-            'name': contact['name'],
-            'project_name': project['name'],
-            'total_funding_amount': project['pledged'],
-            'company_name': contact['company_name'],
-            'email': contact['email']
-        }
-    }
-    payload = json.dumps(event)
-    headers = {
-        'Content-Type': 'application/json',
-        'Authorization': f'Bearer {SEGMENT_KEY}'
-    }
-    response = requests.post('https://api.segment.io/v1/track', data=payload, headers=headers)
-    # TODO: handle response
+    segment.write_key = SEGMENT_KEY
+    segment.track(contact['email'], 'kickstarter-campaign-completed', {
+        'name': contact['name'],
+        'project_name': project['name'],
+        'total_funding_amount': project['pledged'],
+        'company_name': contact['company_name'],
+        'email': contact['email']
+    })
 
 
 def get_people_from_company_domain(domain):
