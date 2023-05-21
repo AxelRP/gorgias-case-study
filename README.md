@@ -1,3 +1,3 @@
 # Gorgias Case Study
 
-Scraper can be found in /gorgias/gorgias/spoders/__init__.py
+Scraper can be found in /gorgias/gorgias/spiders/__init__.py
